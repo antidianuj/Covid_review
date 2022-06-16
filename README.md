@@ -6,7 +6,7 @@ Khan, JunaidIqbal, et al. "Artificial Intelligence and Internet of Things (AI-Io
 
 Basically, it has three novel methodologies to produce insights in the review:
 
-1) Use a bridge between graph theory and image processing to extract interpretable features.
+1) Use a bridge between graph theory and image processing to extract interpretable features (this features were originally destined to be represented by decision trees, but later removed due to increased complexity of interpretation)
 2) Use compartment modelling to predict the trends of specific literature in future.
 3) Use word2vec to plot the status of technologies in 3D.
 
