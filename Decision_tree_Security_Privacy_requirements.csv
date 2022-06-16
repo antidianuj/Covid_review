@@ -1,0 +1,41 @@
+Title,Technique,Class,Citation,Year,Edges,Nodes,Clusters
+A privacy-preserving Bayesian network model for personalised COVID19 risk assessment and contact tracing,conditional privacy preserving,LT protection,8,2021,9,61,2
+Proposed Efficient Conditional Privacy-Preserving Authentication Scheme for V2V and V2I Communications Based on Elliptic Curve Cryptography in Vehicular Ad Hoc Networks,conditional privacy preserving,LT protection,1,2020,79,69,4
+An efficient identity-based conditional privacy-preserving authentication scheme for secure communication in a vehicular ad hoc network,conditional privacy preserving,LT protection,10,2020,45,60,5
+Differential Privacy Practice on Diagnosis of COVID-19 Radiology Imaging Using EfficientNet,differential privacy,LT protection,5,2020,31,50,6
+Privacy-preserving spatio-temporal patient data publishing,differential privacy,LT protection,6,2020,16,56,5
+Differentially Private Health Tokens for Estimating COVID-19 Risk,differential privacy,LT protection,3,2020,7,52,3
+Anonymity preserving IoT-based COVID-19 and other infectious disease contact tracing model,patient anonymity,LT protection,77,2020,10,54,7
+CovidChain: an anonymity preserving blockchain based framework for protection against Covid-19,patient anonymity,LT protection,8,2021,31,67,4
+Blockchain-enabled internet of medical things to combat COVID-19,non-repudiation,LT protection,23,2020,9,41,4
+"Blockchain for COVID-19: review, opportunities, and a trusted tracking system",non-repudiation,LT protection,54,2020,20,57,9
+A lightweight and robust secure key establishment protocol for internet of medical things in COVID-19 patients care,session key establishment,ST protection,24,2020,13,32,5
+3P-SAKE: privacy-preserving and physically secured authenticated key establishment protocol for wireless industrial networks,session key establishment,ST protection,3,2021,13,61,3
+Open VPN Application in COVID-19 Pandemic,session key establishment,ST protection,0,2021,20,40,3
+MedHypChain: A patient-centered interoperability hyperledger-based medical healthcare system: Regulation in COVID-19 pandemic,forward secrecy,ST protection,3,2021,31,53,4
+Pairing Free Certified Common Asymmetric Group Key Agreement Protocol for Data Sharing Among Users with Different Access Rights,forward secrecy,ST protection,0,2021,42,63,5
+Cyber attacks in the era of covid-19 and possible solution domains,forward secrecy,ST protection,6,2020,11,36,6
+COVID-19 Mobile Positioning Data Contact Tracing and Patient Privacy Regulations: Exploratory Search of Global Response Strategies and the Use of Digital Tools in Nigeria,patient location privacy,LT protection,62,2020,58,59,4
+Integrating Metamaterial Antenna Node and LiFi for Privacy Preserving Intelligent COVID-19 Hospital Patient Management,patient location privacy,LT protection,4,2021,9,44,4
+Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach.,patient location privacy,LT protection,26,2020,39,63,5
+Blockchain-Based Traceability System That Ensures Food Safety Measures to Protect Consumer Safety and COVID-19 Free Supply Chains,traceability,LT protection,3,2021,30,57,7
+Traceability system model of Indonesian food cold-chain industry: A Covid-19 pandemic perspective,traceability,LT protection,0,2021,5,43,3
+Blockchain-based supply chain traceability for COVID-19 PPE,traceability,LT protection,1,2020,25,61,5
+Ovid: Message-based Automatic Contact Tracing,data authenticity,LT protection,1,2020,42,67,4
+Health information exchange with blockchain amid COVID-19-like pandemics,data authenticity,LT protection,7,2020,31,59,6
+Blockchain platform for COVID-19 vaccine supply management,data authenticity,LT protection,8,2021,13,41,5
+MedHypChain: A patient-centered interoperability hyperledger-based medical healthcare system: Regulation in COVID-19 pandemic,unforgeability,LT protection,3,2021,26,56,4
+Secureabc: Secure antibody certificates for COVID-19,unforgeability,LT protection,11,2020,12,49,4
+Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach,unforgeability,LT protection,26,2020,38,62,5
+Privacy-Preserving COVID-19 Contact Tracing App: A Zero-Knowledge Proof Approach,patient indentity privacy,LT protection,26,2020,38,62,5
+Privacy-preserving contact tracing in 5G-integrated and blockchain-based medical applications,patient identity privacy,LT protection,4,2021,28,69,7
+Efficient and privacy-preserving medical research support platform against covid-19: A blockchain-based approach,patient identity privacy,LT protection,59,2020,10,42,4
+A lightweight and robust secure key establishment protocol for internet of medical things in COVID-19 patients care,session key security,ST protection,24,2020,13,32,5
+Cryptographic Engineering on COVID-19 Telemedicine: An Intelligent Transmission Through Recurrent Relation Based Session Key,session key security,ST protection,0,2021,11,56,5
+A formally verified authentication protocol in secure framework for mobile healthcare during COVID-19-like pandemic,session key security,ST protection,3,2020,9,46,4
+A formally verified authentication protocol in secure framework for mobile healthcare during COVID-19-like pandemic,non-repudiation,LT protection,3,2020,7,45,4
+A lightweight and robust secure key establishment protocol for internet of medical things in COVID-19 patients care,mutual authentication,ST protection,24,2020,13,32,5
+A formally verified authentication protocol in secure framework for mobile healthcare during COVID-19-like pandemic,mutual authentication,ST protection,3,2020,7,45,4
+Online at Will: A Novel Protocol for Mutual Authentication in Peer-to-Peer Networks for Patient-Centered Health Care Information Systems,mutual authentication,ST protection,0,2021,32,64,5
+Google COVID-19 Community Mobility Reports: anonymization process description (version 1.1),patient anonymity,LT protection,104,2020,13,52,5
+A privacy-preserving mobile and fog computing framework to trace and prevent covid-19 community transmission,patient anonymity,LT protection,14,2020,66,62,8

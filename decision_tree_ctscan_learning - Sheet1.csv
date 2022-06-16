@@ -1,0 +1,10 @@
+Title,Technique,Citation,Year,Edges,Nodes,Clusters
+Diagnosis of COVID-19 using CT scan images and deep learning techniques,CNN,17,2020,9,55,5
+Deep transfer learning-based automated detection of COVID-19 from lung CT scan slices,CNN,15,2021,61,57,4
+A fully automated deep learning-based network for detecting COVID-19 from a new and large lung CT scan dataset,CNN,57,2020,102,75,8
+Development of a Machine-Learning System to Classify Lung CT Scan Images into Normal/COVID-19 Class,Machine Learning,14,2020,20,54,7
+Machine Learning Analysis of Chest CT Scan Images as a Complementary Digital Test of Coronavirus (COVID-19) Patients,Machine Learning,31,2020,63,83,9
+Diagnosing COVID-19 pneumonia from x-ray and CT images using deep learning and transfer learning algorithms,CNN,151,2021,50,79,7
+Deep learning for diagnosis of COVID-19 using 3D CT scans,CNN,5,2021,84,53,2
+Transfer learning-based approach for detecting COVID-19 ailment in lung CT scan,CNN,2,2021,26,51,5
+Automated deep transfer learning-based approach for detection of COVID-19 infection in chest X-rays,CNN,95,2020,57,77,4
