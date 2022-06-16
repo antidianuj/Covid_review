@@ -2,7 +2,7 @@
 
 This repository contains files used in the following paper:
 
-Khan, J., Khan, J., Ali, F., Ullah, F., Bacha, J. and Lee, S., 2022. Artificial Intelligence and Internet of Things (AI-IoT) Technologies in Response to COVID-19 Pandemic: A Systematic Review. IEEE Access.
+Khan, JunaidIqbal, et al. "Artificial Intelligence and Internet of Things (AI-IoT) Technologies in Response to COVID-19 Pandemic: A Systematic Review." IEEE Access (2022).
 
 Basically, it has three novel methodologies to produce insights in the review:
 
