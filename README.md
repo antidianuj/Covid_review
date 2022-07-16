@@ -17,4 +17,4 @@ Basically, it has three novel methodologies to produce insights in the review:
 Furthermore, Google News Vectors can be downloaded from: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g
 
 
-In case of query, you can contact the first author at: dianujkotov15@gmail.com
+In case of query, you can contact the first author at: dianujkotov15@gmail.com 
